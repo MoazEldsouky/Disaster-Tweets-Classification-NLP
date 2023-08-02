@@ -79,10 +79,6 @@ The performance of the SVM model is evaluated using standard classification metr
 
 We welcome contributions to enhance the project! If you find any bugs or want to add new features, please create a pull request, and we'll review it together.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
 _This README is a template and should be modified to suit the specific details of the Disaster Tweets Classification NLP project._
