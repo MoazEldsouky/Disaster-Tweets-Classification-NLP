@@ -69,11 +69,11 @@ pip install -r requirements.txt
 
 ## Model
 
-The NLP model used for this project is a deep learning-based classifier, specifically a Long Short-Term Memory (LSTM) neural network. LSTM is chosen for its ability to capture sequential patterns in text data effectively.
+The NLP model used for this project is a Support Vector Machine (SVM) classifier. SVM is a powerful supervised learning algorithm that is well-suited for text classification tasks. It works by finding the optimal hyperplane that best separates the data into different classes.
 
 ## Evaluation
 
-The performance of the model is evaluated using standard classification metrics such as accuracy, precision, recall, and F1-score. Additionally, a confusion matrix is plotted to visualize the model's performance.
+The performance of the SVM model is evaluated using standard classification metrics such as accuracy, precision, recall, and F1-score. Additionally, a confusion matrix is plotted to visualize the model's performance.
 
 ## Contributing
 
